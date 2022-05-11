@@ -7,6 +7,6 @@ input.onGesture(Gesture.Shake, function () {
     basic.showNumber(receivedscore)
 })
 let receivedscore = 0
-radio.setGroup(0)
+radio.setGroup(84)
 basic.showNumber(0)
 receivedscore = 0
