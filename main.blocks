@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="NooFpKAB0;F85k)3PQ,G">scoreboard</variable></variables><block type="device_forever" id="TP-Zv@nU!Wpj4Exc{mFZ" x="225" y="20"/><block type="pxt-on-start" id="$Hah{nSu}Vk%hjl[K]$m" x="49" y="80"><statement name="HANDLER"><block type="radio_set_group" id="u=g79MpB%~w(Z^3?*$@b"><value name="ID"><shadow type="math_number_minmax" id="%Lhlv@!/Tt~hXr|}j@/3"><mutation min="0" max="255" label="Id" precision="0"/><field name="SLIDER">0</field></shadow></value><next><block type="device_show_number" id="tD)/Q^D,mg5VUq#_*J3_"><value name="number"><shadow type="math_number" id="Un5UnM5ae;j)TMYtm|3l"><field name="NUM">0</field></shadow></value></block></next></block></statement></block><block type="radio_on_string_drag" id="=mXHn?;[t|oB`E$1[K~?" x="130" y="269"><value name="HANDLER_DRAG_PARAM_receivedString"><shadow type="argument_reporter_string" id="WiiN)GOGXO/xa!%==37P"><field name="VALUE">receivedString</field></shadow></value></block></xml>
